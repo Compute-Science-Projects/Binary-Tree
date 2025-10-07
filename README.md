@@ -1,17 +1,23 @@
-# 🌳 Estrutura de Dados: Árvores Binárias em C
+🌳 Data Structures: Binary Trees in C
 
-Este repositório contém a implementação completa de estruturas e operações fundamentais de **árvores binárias** utilizando a linguagem **C**. É voltado para fins educacionais, acadêmicos e como base para projetos mais complexos que envolvam estruturas de dados.
+This repository contains a complete implementation of fundamental structures and operations for binary trees using the C programming language. It is intended for educational and academic purposes, as well as a foundation for more complex projects involving data structures.
 
-## 📌 Conteúdo
+📌 Contents
 
-- Estrutura de um nó de árvore binária
-- Inserção de elementos
-- Remoção de nós
-- Busca de elementos
-- Percursos (pré-ordem, in-ordem, pós-ordem)
-- Cálculo da altura da árvore
-- Contagem de nós e folhas
-- Verificação de balanceamento
-- Liberação da memória (destruição da árvore)
+Structure of a binary tree node
 
+Insertion of elements
 
+Node removal
+
+Element search
+
+Tree traversals (pre-order, in-order, post-order)
+
+Tree height calculation
+
+Node and leaf counting
+
+Balance checking
+
+Memory deallocation (tree destruction)
